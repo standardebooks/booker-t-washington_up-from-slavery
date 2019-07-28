@@ -5,3 +5,11 @@
     font-variant: small-caps;
     text-align: right;
 }
+
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
+section[epub|type~="dedication"] > p > span{
+    font-variant: small-caps;
+}
