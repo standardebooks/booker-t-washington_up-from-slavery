@@ -33,8 +33,18 @@ section[epub|type~="dedication"] > p > span{
 	text-align: left;
 	text-indent: 0;
 }
+	
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
 
 p span.i1{
 	text-indent: -1em;
-	padding-left: 1em;
+	padding-left: 2em;
 }
