@@ -29,6 +29,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Up from Slavery</dc:title>
 		<meta property="file-as" refines="#title">Up from Slavery</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">An Autobiography</dc:title>
+		<meta property="file-as" refines="#subtitle">Autobiography, An</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Up from Slavery: An Autobiography</dc:title>
+		<meta property="file-as" refines="#fulltitle">Up from Slavery</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Tuskegee Institute</dc:subject>
 		<dc:subject id="subject-2">Washington, Booker T., 1856-1915</dc:subject>
 		<dc:subject id="subject-3">African Americans -- Biography</dc:subject>
@@ -41,21 +48,24 @@
 		<meta property="term" refines="#subject-3">sh2007100197</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008102671</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Autobiography</meta>
+		<meta property="se:subject">Memoir</meta>
+		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2376</dc:source>
+		<dc:source>https://archive.org/details/upfromslaveryan06washgoog/</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Up_From_Slavery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booker-t-washington_up-from-slavery</meta>
 		<dc:creator id="author">Booker T. Washington</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Washington, Booker T.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Booker Taliaferro Washington</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Booker_T._Washington</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79063604</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="writer-of-introduction">Walter H. Page</dc:contributor>
 		<meta property="file-as" refines="#writer-of-introduction">Page, Walter H.</meta>
@@ -69,20 +79,20 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Internet Wiretap</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Internet Wiretap</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">An Anonymous Project Gutenberg Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Anonymous Project Gutenberg Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Dan Muller</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-3">Muller, Dan</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-4">Widger, David</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Mike Bennett</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bennett, Mike</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/mgbennet</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
