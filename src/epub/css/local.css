@@ -8,8 +8,8 @@ span[epub|type~="subtitle"]{
 
 .signature,
 [epub|type~="z3998:sender"]{
-    font-variant: small-caps;
-    text-align: right;
+	font-variant: small-caps;
+	text-align: right;
 }
 
 section[epub|type~="dedication"]{
@@ -44,7 +44,7 @@ section[epub|type~="dedication"]{
 	text-align: left;
 	text-indent: 0;
 }
-	
+
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
