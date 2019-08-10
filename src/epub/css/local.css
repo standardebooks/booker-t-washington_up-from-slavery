@@ -65,3 +65,7 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+
+.small-caps{
+	font-variant: small-caps;
+}
