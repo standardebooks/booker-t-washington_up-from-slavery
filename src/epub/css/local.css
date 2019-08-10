@@ -14,6 +14,12 @@ span[epub|type~="subtitle"]{
 
 section[epub|type~="dedication"]{
 	text-align: center;
+	font-style: italic;
+}
+
+section[epub|type~="dedication"] > p > span{
+	font-variant: small-caps;
+	font-style: normal;
 }
 
 [epub|type~="z3998:letter"] > header{
