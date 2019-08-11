@@ -61,6 +61,11 @@ section[epub|type~="dedication"] > p > span{
 	display: none;
 }
 
+[epub|type~="z3998:article"] > header > [epub|type~="se:letter.dateline"]{
+	text-align: right;
+	text-indent: 0em;
+}
+
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
