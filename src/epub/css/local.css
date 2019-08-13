@@ -46,6 +46,10 @@ section[epub|type~="dedication"] > p > span{
 	font-variant: small-caps;
 }
 
+blockquote.extended-speech{
+	margin:0;
+}
+
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
