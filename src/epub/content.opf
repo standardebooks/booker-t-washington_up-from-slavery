@@ -51,12 +51,15 @@
 		<meta property="se:subject">Autobiography</meta>
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Booker Taliaferro Washington began life as a slave in Virginia shortly before emancipation, but rose to become one of the most celebrated leaders the African American community has ever had. His principal occupation was as president of the Tuskegee Institute which he founded in 1881, but he earned national renown as an orator, writer and political advisor. His address at the Atlanta Exposition was a pivotal moment in race relations in America.&lt;/p&gt;
+			&lt;p&gt;Washington believed deeply in the dignity of physical labor, and that merit and talent is eventually rewarded regardless of race or class. The Tuskegee Institution was primarily a technical college, and aimed to teach industrial skills in addition to academic training. Students built many of the buildings on the campus, grew the food that was eaten there, and even made the furniture, tools and vehicles used by the school.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Up from Slavery&lt;/i&gt; was originally published as a serialized work in &lt;i&gt;The Outlook&lt;/i&gt;, a Christian magazine based out of New York, before being collected in a single volume in 1901. This edition includes an introduction by Walter H. Page, a future US ambassador to the United Kingdom.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2376</dc:source>
 		<dc:source>https://archive.org/details/upfromslaveryan06washgoog</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Up_From_Slavery</meta>
