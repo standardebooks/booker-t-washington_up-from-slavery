@@ -6,12 +6,6 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-[epub|type~="introduction"] + footer,
-[epub|type~="z3998:sender"]{
-	font-variant: small-caps;
-	text-align: right;
-}
-
 section[epub|type~="dedication"]{
 	text-align: center;
 	font-style: italic;
@@ -37,7 +31,11 @@ section[epub|type~="chapter"] header{
 	text-indent: 0em;
 }
 
-[epub|type~="z3998:letter"] > footer > [epub|type~="z3998:recipient"] > span{
+footer{
+	text-align: right;
+}
+
+.signature{
 	font-variant: small-caps;
 }
 
