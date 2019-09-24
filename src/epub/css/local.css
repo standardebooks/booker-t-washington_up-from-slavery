@@ -22,8 +22,11 @@ section[epub|type~="dedication"] > p > span{
 	font-style: normal;
 }
 
-[epub|type~="z3998:letter"] > header{
+section[epub|type~="chapter"] header{
 	text-align: right;
+}
+
+[epub|type~="z3998:letter"] > header{
 	font-variant: small-caps;
 	margin-bottom: 1em;
 }
@@ -67,11 +70,6 @@ section[epub|type~="dedication"] > p > span{
 
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
-}
-
-[epub|type~="z3998:article"] > header > [epub|type~="se:letter.dateline"]{
-	text-align: right;
-	text-indent: 0em;
 }
 
 p span.i1{
