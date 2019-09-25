@@ -11,8 +11,7 @@ section[epub|type~="dedication"]{
 	text-align: center;
 }
 
-section[epub|type~="dedication"] > p > span{
-	font-variant: small-caps;
+section[epub|type~="dedication"] b{
 	font-style: normal;
 }
 
