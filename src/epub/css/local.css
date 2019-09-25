@@ -30,8 +30,9 @@ section[epub|type~="chapter"] header{
 	margin-bottom: 1em;
 }
 
-[epub|type~="z3998:letter"] > header > [epub|type~="z3998:recipient"],
-#chapter-17 > blockquote:nth-of-type(10) > header > p:last-child{
+[epub|type~="z3998:recipient"],
+#chapter-14 blockquote:first-of-type header,
+#chapter-17 blockquote:nth-of-type(10) header p:last-child{
 	text-align: left;
 	text-indent: 0em;
 }
