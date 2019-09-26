@@ -38,12 +38,8 @@ section[epub|type~="chapter"] header{
 }
 
 footer{
+	margin-top: 1em;
 	text-align: right;
-}
-
-[epub|type~="z3998:valediction"]{
-	text-align: center;
-	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p{
