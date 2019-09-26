@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/booker-t-washington/up-from-slavery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-09-26T17:49:03Z</dc:date>
+		<meta property="dcterms:modified">2019-09-26T17:49:03Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,15 +53,15 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">The autobiography of Booker T. Washington, former slave and founder of the Tuskegee Institute.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Booker Taliaferro Washington began life as a slave in Virginia shortly before emancipation, but rose to become one of the most celebrated leaders the African American community has ever had. His principal occupation was as president of the Tuskegee Institute which he founded in 1881, but he earned national renown as an orator, writer and political advisor. His address at the Atlanta Exposition was a pivotal moment in race relations in America.&lt;/p&gt;
+			&lt;p&gt;Booker Taliaferro Washington began life as a slave in Virginia shortly before emancipation, but rose to become one of the most celebrated leaders the African American community has ever had. His principal occupation was as president of the Tuskegee Institute, which he founded in 1881, but he earned national renown as an orator, writer and political advisor. His address at the Atlanta Exposition was a pivotal moment in race relations in America.&lt;/p&gt;
 			&lt;p&gt;Washington believed deeply in the dignity of physical labor, and that merit and talent is eventually rewarded regardless of race or class. The Tuskegee Institution was primarily a technical college, and aimed to teach industrial skills in addition to academic training. Students built many of the buildings on the campus, grew the food that was eaten there, and even made the furniture, tools and vehicles used by the school.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Up from Slavery&lt;/i&gt; was originally published as a serialized work in &lt;i&gt;The Outlook&lt;/i&gt;, a Christian magazine based in New York, before being collected in a single volume in 1901. This edition includes an introduction by Walter H. Page, a future US ambassador to the United Kingdom.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2376</dc:source>
 		<dc:source>https://archive.org/details/upfromslaveryan06washgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">76852</meta>
+		<meta property="se:reading-ease.flesch">63.12</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Up_From_Slavery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booker-t-washington_up-from-slavery</meta>
 		<dc:creator id="author">Booker T. Washington</dc:creator>
@@ -104,6 +104,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Michael Atkinson</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Atkinson, Michael</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.github.com/michael-77</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
