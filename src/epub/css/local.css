@@ -34,7 +34,7 @@ section[epub|type~="chapter"] header{
 #chapter-14 blockquote:first-of-type header,
 #chapter-17 blockquote:nth-of-type(10) header p:last-child{
 	text-align: left;
-	text-indent: 0em;
+	text-indent: 0;
 }
 
 footer{
