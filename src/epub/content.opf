@@ -86,8 +86,8 @@
 		<dc:contributor id="transcriber-1">Internet Wiretap</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Internet Wiretap</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">An Anonymous Project Gutenberg Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Anonymous Project Gutenberg Volunteer, An</meta>
+		<dc:contributor id="transcriber-2">An Anonymous Volunteer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Anonymous Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Dan Muller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Muller, Dan</meta>
