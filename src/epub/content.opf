@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2376</dc:source>
 		<dc:source>https://archive.org/details/upfromslaveryan06washgoog</dc:source>
 		<meta property="se:word-count">76850</meta>
-		<meta property="se:reading-ease.flesch">63.12</meta>
+		<meta property="se:reading-ease.flesch">63.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Up_From_Slavery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/booker-t-washington_up-from-slavery</meta>
 		<dc:creator id="author">Booker T. Washington</dc:creator>
