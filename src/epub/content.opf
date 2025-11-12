@@ -79,8 +79,8 @@
 		<meta property="se:name.person.full-name" refines="#writer-of-introduction">Walter Hines Page</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-introduction">https://en.wikipedia.org/wiki/Walter_Hines_Page</meta>
 		<meta property="se:url.authority.nacoaf" refines="#writer-of-introduction">http://id.loc.gov/authorities/names/n50051834</meta>
-		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">William Sidney Mount</dc:contributor>
 		<meta property="file-as" refines="#artist">Mount, William Sidney</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Sidney_Mount</meta>
