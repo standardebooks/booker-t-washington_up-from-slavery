@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Up from Slavery: An Autobiography</dc:title>
 		<meta property="file-as" refines="#fulltitle">Up from Slavery</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Tuskegee Institute</dc:subject>
 		<dc:subject id="subject-2">Washington, Booker T., 1856-1915</dc:subject>
 		<dc:subject id="subject-3">African Americans -- Biography</dc:subject>
