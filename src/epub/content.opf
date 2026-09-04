@@ -39,8 +39,8 @@
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Tuskegee Institute</dc:subject>
 		<dc:subject id="subject-2">Washington, Booker T., 1856-1915</dc:subject>
-		<dc:subject id="subject-3">African Americans -- Biography</dc:subject>
-		<dc:subject id="subject-4">Educators -- United States -- Biography</dc:subject>
+		<dc:subject id="subject-3">African Americans--Biography</dc:subject>
+		<dc:subject id="subject-4">Educators--United States--Biography</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">n80036583</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
